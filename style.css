@@ -1,13 +1,16 @@
 
 
  .exitsign{
-     padding: 0
-     margin:0;
+     background-color: #D6DBDF;
+     padding: 5vmin ;
      font-family: 'Oswald', sans-serif;
-     align-content: center;
      color:#F20000;
-     font-size: 300px;
+     font-size: 50vmin;
      animation: blinkingText 2s infinite;
+
+}
+ .exitsign:hover {
+  transform: rotate(120deg);
 
 }
 @keyframes blinkingText {
