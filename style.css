@@ -5,6 +5,7 @@
      padding: 5vmin ;
      font-family: 'Oswald', sans-serif;
      color:#F20000;
+     text-align: center;
      font-size: 50vmin;
      animation: blinkingText 2s infinite;
 
